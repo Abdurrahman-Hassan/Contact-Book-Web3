@@ -28,7 +28,7 @@ const AddContacts = () => {
       ) : (
         <div className={styles.addContactContainer}>
           <div className={styles.addContactCard}>
-            <button onClick={() => setAddContact(false)}>Close</button>
+            <button onClick={() => setAddContact(false)} className={styles.closebtn}>Close</button>
             <div className={styles.addContactForm}>
               <h3>Add Contacts:</h3>
               <input
