@@ -48,4 +48,4 @@ This project was built using Next.js, ThirdWeb, and Ethereum smart contracts.
 Special thanks to the open-source community for their contributions and support.
 Contact
 
-==If you have any questions or need assistance, please feel free to reach out to us at contact@example.com.==
+<b>If you have any questions or need assistance, please feel free to reach out to us at contact@example.com.</b>
